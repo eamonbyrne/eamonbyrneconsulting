@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Eamon Byrne Consulting LLC"
+  description: "Helping science & technology innovators secure non-dilutive funding and translate discoveries into impact."
+  site-url: https://eamonbyrneconsulting.com    # replace with your custom domain
+  navbar:
+    background: light
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "One-Pager"
+        href: EamonByrneConsultingLLC_CapabilityStatement_2025Aug.pdf
+      - text: "Contact"
+        href: mailto:eamon@eamonbyrneconsulting.com
+
+format:
+  html:
+    theme: flatly   # clean, professional Bootstrap theme
+    css: styles.css # optional custom overrides
+    toc: false
+    page-layout: full

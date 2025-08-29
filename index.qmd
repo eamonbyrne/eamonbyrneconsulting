@@ -1,0 +1,115 @@
+---
+title: "Eamon Byrne - Biotechnology Consulting"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    link-external-newwindow: true
+---
+
+```{=html}
+<!-- Hero Section -->
+<div class="hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Helping science & technology innovators secure funding and translate discoveries into impact.</h1>
+      <h2>Eamon Byrne, PhD. — Biotech Strategy Consultant</h2>
+      <a href="#contact" class="cta">Work With Me</a>
+    </div>
+    <div class="hero-image">
+      <img src="EamonByrne_headshot_2025July_smallfile.jpeg" alt="Eamon Byrne, Biotech Strategy Consultant">
+    </div>
+  </div>
+</div>
+```
+
+
+
+## About Me {#about}
+
+I’m Eamon Byrne, PhD, a scientist and consultant with expertise in **protein engineering, gene therapy, cell-based therapeutics, and translational biotech**. I help startups, researchers, faculty and tech transfer offices transform their science into funded projects and real-world impact. Clients value my ability to combine **deep technical expertise** with **strategic insight** to craft winning proposals and commercialization strategies.
+
+Trained at Oxford and Stanford and seasoned in San Francisco’s biotech startup ecosystem, I bring a global perspective, rigorous scientific training, and cross-sector experience spanning academia, startups, and industry — bridging the gap between discovery and commercialization.
+
+---
+
+## How I Help {#services}
+
+<div class="services-grid">
+
+<div class="service-card">
+  <h3>Grant Strategy</h3>
+  <p>Design competitive SBIR/STTR and state grant proposals (e.g. NM S&T Business Start-Up Grants).</p>
+</div>
+
+<div class="service-card">
+  <h3>Research Planning</h3>
+  <p>Develop milestone-driven research plans aligned with funder expectations.</p>
+</div>
+
+<div class="service-card">
+  <h3>Science Communication</h3>
+  <p>Translate complex science into clear, compelling, review-ready funding narratives.</p>
+</div>
+
+<div class="service-card">
+  <h3>Commercialization Guidance</h3>
+  <p>Advise on strategy, regulatory pathways, and investor readiness.</p>
+</div>
+
+</div>
+
+
+
+<div class="two-col">
+
+<div class="focus-areas">
+
+## Focus Areas {#focus}
+
+- Translational Biotech  
+- Protein Engineering (e.g. antibody fragments, viral envelope proteins, ion channels, GPCRs)  
+- Gene Therapy (e.g. CRISPR-Cas)
+- Cell-Based Therapeutics (e.g. CAR-T cells)  
+- Therapeutic Delivery Methods (e.g. lentivirus)
+- Preclinical Studies
+
+</div>
+
+<div class="capabilities">
+
+## Capability Statement {#capabilities}
+
+[Download One-Pager PDF](EamonByrneConsultingLLC_CapabilityStatement_2025Aug.pdf){.btn}
+</div>
+
+</div>
+
+---
+
+<div class="contact">
+
+## Contact {#contact}
+
+Interested in working together? Connect with me:
+
+📧 [eamon@eamonbyrneconsulting.com](mailto:eamon@eamonbyrneconsulting.com)  
+
+🔗 [linkedin.com/in/efxbyrne](https://www.linkedin.com/in/efxbyrne/)  
+  \
+
+---
+
+Eamon Byrne Consulting LLC is proudly located in Albuquerque, New Mexico.
+
+---
+
+</div>
+
+  \
+
+<div class="footer">
+© 2025 Eamon Byrne Consulting LLC — All rights reserved.
+</div>

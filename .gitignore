@@ -1,3 +1,25 @@
+# Quarto build outputs
+.quarto/
+_site/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# RStudio/Editor junk
+.Rproj.user
+.Rhistory
+.RData
+
+# LaTeX / PDF build junk
+*.aux
+*.log
+*.out
+*.toc
+
+# Misc
+*.pdf
+
 # Logs
 logs
 *.log
@@ -134,3 +156,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+/.quarto/
